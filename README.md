@@ -1,1 +1,1 @@
-# Wplace Colourpainting bot made in python
+# Wplace painting bot made in python
